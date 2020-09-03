@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="javadoc">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../Download/Nintaco_bin_2020-05-01" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/../../Download/Nintaco_bin_2020-05-01" recursive="false" />
+  </library>
+</component>
